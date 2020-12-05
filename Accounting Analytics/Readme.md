@@ -12,3 +12,4 @@ This course has been designed to help you make better business decisions about t
 - Accounting
 - Analytics
 - Earnings Management
+- Finance
